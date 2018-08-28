@@ -1,0 +1,5 @@
+## Title: Mowsh Automation
+## Version: 1.0
+## Author: Mowsh
+## Interface: 80000
+Mowsh_Automation.lua
